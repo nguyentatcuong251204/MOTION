@@ -1,0 +1,16 @@
+--2025-02-23 15:38:42--  https://www.dropbox.com/scl/fi/x7tqdmlqn8zkxm3tatpce/kinetics_400_labels.csv?rlkey=tlelhi8k43k14ov7dkqietdat
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.3.18, 2620:100:601b:18::a27d:812
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.3.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://uca4819afdcea4d61f3bc5e982b5.dl.dropboxusercontent.com/cd/0/inline/CkrqovkMx55AlPZcd8tXkSBVNa7yQfjZRaKkWUgLJKIMiCZMMtdUX1IVfoa05fc66obS3_kTV_lEP5MtRqYdO-YXF4eX60BuQV1Du23WThpWQggw1BooOgCImNhjOIX_mILrmVJxIoth8CRQ2kDXZtcT/file# [following]
+--2025-02-23 15:38:45--  https://uca4819afdcea4d61f3bc5e982b5.dl.dropboxusercontent.com/cd/0/inline/CkrqovkMx55AlPZcd8tXkSBVNa7yQfjZRaKkWUgLJKIMiCZMMtdUX1IVfoa05fc66obS3_kTV_lEP5MtRqYdO-YXF4eX60BuQV1Du23WThpWQggw1BooOgCImNhjOIX_mILrmVJxIoth8CRQ2kDXZtcT/file
+Resolving uca4819afdcea4d61f3bc5e982b5.dl.dropboxusercontent.com (uca4819afdcea4d61f3bc5e982b5.dl.dropboxusercontent.com)... 162.125.3.15, 2620:100:6018:15::a27d:30f
+Connecting to uca4819afdcea4d61f3bc5e982b5.dl.dropboxusercontent.com (uca4819afdcea4d61f3bc5e982b5.dl.dropboxusercontent.com)|162.125.3.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7454 (7.3K) [text/plain]
+Saving to: ‘kinetics_400_labels.csv?rlkey=tlelhi8k43k14ov7dkqietdat’
+
+          kinetics_   0%[                    ]       0  --.-KB/s               kinetics_400_labels 100%[===================>]   7.28K  --.-KB/s    in 0s      
+
+2025-02-23 15:38:45 (2.93 GB/s) - ‘kinetics_400_labels.csv?rlkey=tlelhi8k43k14ov7dkqietdat’ saved [7454/7454]
+
